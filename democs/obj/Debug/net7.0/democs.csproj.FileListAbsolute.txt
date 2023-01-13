@@ -13,3 +13,18 @@ D:\vscode\democs\obj\Debug\net7.0\refint\democs.dll
 D:\vscode\democs\obj\Debug\net7.0\democs.pdb
 D:\vscode\democs\obj\Debug\net7.0\democs.genruntimeconfig.cache
 D:\vscode\democs\obj\Debug\net7.0\ref\democs.dll
+D:\git of sourcetree\democs\bin\Debug\net7.0\democs.exe
+D:\git of sourcetree\democs\bin\Debug\net7.0\democs.deps.json
+D:\git of sourcetree\democs\bin\Debug\net7.0\democs.runtimeconfig.json
+D:\git of sourcetree\democs\bin\Debug\net7.0\democs.dll
+D:\git of sourcetree\democs\bin\Debug\net7.0\democs.pdb
+D:\git of sourcetree\democs\obj\Debug\net7.0\democs.csproj.AssemblyReference.cache
+D:\git of sourcetree\democs\obj\Debug\net7.0\democs.GeneratedMSBuildEditorConfig.editorconfig
+D:\git of sourcetree\democs\obj\Debug\net7.0\democs.AssemblyInfoInputs.cache
+D:\git of sourcetree\democs\obj\Debug\net7.0\democs.AssemblyInfo.cs
+D:\git of sourcetree\democs\obj\Debug\net7.0\democs.csproj.CoreCompileInputs.cache
+D:\git of sourcetree\democs\obj\Debug\net7.0\democs.dll
+D:\git of sourcetree\democs\obj\Debug\net7.0\refint\democs.dll
+D:\git of sourcetree\democs\obj\Debug\net7.0\democs.pdb
+D:\git of sourcetree\democs\obj\Debug\net7.0\democs.genruntimeconfig.cache
+D:\git of sourcetree\democs\obj\Debug\net7.0\ref\democs.dll

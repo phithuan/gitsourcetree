@@ -18,7 +18,7 @@ namespace baitaptinhso
           strB = Console.ReadLine();
 
           xt1 = int.TryParse(strA, out A);
-          Console.Write("So a nhap vao la: " ); Console.WriteLine(xt1 == true ? "dung" : "sai");
+          Console.Write("So a nhap vao la hahahaha: " ); Console.WriteLine(xt1 == true ? "dung" : "sai");
           xt2 = int.TryParse(strB, out B);
           Console.Write("So b nhap vao la: " ); Console.WriteLine(xt2 == true ? "dung" : "sai");
           
