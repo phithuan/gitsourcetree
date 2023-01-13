@@ -1,0 +1,15 @@
+D:\vscode\democs\bin\Debug\net7.0\democs.exe
+D:\vscode\democs\bin\Debug\net7.0\democs.deps.json
+D:\vscode\democs\bin\Debug\net7.0\democs.runtimeconfig.json
+D:\vscode\democs\bin\Debug\net7.0\democs.dll
+D:\vscode\democs\bin\Debug\net7.0\democs.pdb
+D:\vscode\democs\obj\Debug\net7.0\democs.csproj.AssemblyReference.cache
+D:\vscode\democs\obj\Debug\net7.0\democs.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode\democs\obj\Debug\net7.0\democs.AssemblyInfoInputs.cache
+D:\vscode\democs\obj\Debug\net7.0\democs.AssemblyInfo.cs
+D:\vscode\democs\obj\Debug\net7.0\democs.csproj.CoreCompileInputs.cache
+D:\vscode\democs\obj\Debug\net7.0\democs.dll
+D:\vscode\democs\obj\Debug\net7.0\refint\democs.dll
+D:\vscode\democs\obj\Debug\net7.0\democs.pdb
+D:\vscode\democs\obj\Debug\net7.0\democs.genruntimeconfig.cache
+D:\vscode\democs\obj\Debug\net7.0\ref\democs.dll
